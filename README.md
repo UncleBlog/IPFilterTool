@@ -31,6 +31,16 @@
 
 > 单文件运行，无需安装 Python；历史记录保存在本机，不依赖云服务。
 
+### 界面预览
+
+<div align="center">
+
+<img src="assets/screenshot.png" alt="IP 筛选工具主界面：左侧历史 IP 记录，右侧本次新增 IP" width="100%">
+
+<p><sub>左侧为历史 IP 记录，右侧为本次新增 IP；筛选结果一目了然，支持勾选、批量复制与删除。</sub></p>
+
+</div>
+
 ## 功能亮点
 
 | 能力 | 说明 |
@@ -149,7 +159,8 @@ IPFilterTool/
 ├─ assets/
 │  ├─ banner.png
 │  ├─ icon.png
-│  └─ icon.ico
+│  ├─ icon.ico
+│  └─ screenshot.png
 ├─ docs/
 │  └─ 使用说明.md
 ├─ build.ps1
