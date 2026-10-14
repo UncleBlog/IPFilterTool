@@ -50,7 +50,7 @@
 
 ## 快速开始
 
-1. 从 [Releases](https://github.com/UncleBlog/IPFilterTool/releases/latest) 下载 `IP筛选工具_v1.1.1.exe`。
+1. 从 [Releases](https://github.com/UncleBlog/IPFilterTool/releases/latest) 下载 `IPFilterTool_v1.1.1.exe`。
 2. 双击运行，无需安装。
 3. 在输入框中粘贴 IP，支持以下格式：
 
@@ -98,7 +98,8 @@
 - **Release 页面**：https://github.com/UncleBlog/IPFilterTool/releases/latest
 - **当前版本**：`v1.1.1`
 - **适用系统**：Windows 10 / 11 x64
-- **文件**：`IP筛选工具_v1.1.1.exe`
+- **主程序**：`IPFilterTool_v1.1.1.exe`
+- **图标文件**：`IPFilterTool_icon_v1.1.1.ico`
 
 SHA256：
 
